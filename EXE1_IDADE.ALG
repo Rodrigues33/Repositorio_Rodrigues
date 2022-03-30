@@ -1,9 +1,4 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Hiram Amaral 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : alunocetam22
-// Data atual  : 25/03/2022
 
 Var
 // Seção de Declarações das variáveis
