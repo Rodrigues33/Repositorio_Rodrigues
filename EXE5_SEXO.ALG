@@ -1,14 +1,14 @@
 Algoritmo "exe5_sexo"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : alunocetam22
 // Data atual  : 25/03/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    sexo: caractere
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreva("M = mulher | H = homem | O = outros")
    escreva("Digite uma sigla para seu sexo: ")
    leia(sexo)
@@ -17,9 +17,9 @@ Inicio
 
    escolha sexo
       caso "m"
-        escreva("voce e mulher")
+        escreva("voce e Mulher")
       caso "h"
-        escreva("voce e homem")
+        escreva("voce e Homem")
       caso "o"
         escreva("voce e outro")
       outrocaso
